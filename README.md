@@ -32,5 +32,3 @@ In the end, it's all about learning, experimenting, and creating things that I c
 Feel free to check out my projects! I’m always up for a code chat or some good ol’ programming memes. 😎
 
 - **Discord**: [mochensky](https://discord.com/users/921107440496443392).
-
-Looking forward to coding with you! 👾
