@@ -42,7 +42,7 @@
 
 ### Technologies I Work With
 
-- **Python** — automation, data processing, AI experiments, other staff
+- **Python** — automation, data processing, AI experiments, other stuff
 - **Go** — writing a lot in Go lately, because it's similar to Python, but faster and great for backends, network services, and microservices.
 - **JavaScript** — interactive websites, frontend logic
 - **Java** — all sorts of things for Minecraft
