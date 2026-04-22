@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hello,+I'm+mochensky;Cool+text+here;..." alt="Typing animation" />
-  
-  <p>
-    Dedicated programmer focused on creating useful and interesting digital solutions
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=mochensky" alt="Typing animation" />
 
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -40,7 +36,7 @@
 
 ---
 
-### Technologies I Work With
+### I Work With
 
 - **Python** — automation, data processing, AI experiments, other stuff
 - **Go** — writing a lot in Go lately, because it's similar to Python, but faster and great for backends, network services, and microservices.
